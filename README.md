@@ -113,7 +113,7 @@
 </p>
 
 
-<img width="350" align="right" alt="3Ayb.gif" src="3Ayb.gif" />
+<img width="300" align="right" alt="3Ayb.gif" src="3Ayb.gif" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shequre&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
